@@ -17,5 +17,6 @@ This project is a customized solution that resembles Trello, designed to be easi
 To clone this project using Git, use the following commands:
 
 ```bash
+cd my-trello
 git clone https://github.com/tariqsenosy/my-trello.git
-cd your-repository
+
